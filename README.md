@@ -1,5 +1,6 @@
 <h1>Jogo do número secreto</h1>
 
+
 <h2>🔖 Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
@@ -11,4 +12,4 @@
 </div>
 
 
-
+![ia](https://github.com/GiovanniGoulart/JogoDoNumeroSecreto/assets/107950199/338d5566-5a3b-44bb-ae37-670e3f967a07)
